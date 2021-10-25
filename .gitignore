@@ -1,0 +1,7 @@
+.idea/
+data/
+docs/
+facemaskdetection.egg-info/
+input/
+venv/
+*.pyc
